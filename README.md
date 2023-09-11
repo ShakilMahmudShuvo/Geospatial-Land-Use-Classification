@@ -1,4 +1,4 @@
-# Keras basic toolbox for image recognition<div style="text-align:center">
+# Geospatial-Land-Use-Classification<div style="text-align:center">
 
 ![transformation-31d49ea5fedf3443](https://github.com/phreak1703007/Geospatial-Land-Use-Classification/assets/62479964/a51010c8-d6f8-4685-bd89-f5f6c1937364)
 
